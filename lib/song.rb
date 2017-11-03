@@ -1,6 +1,4 @@
 require 'pry'
-#require_relative '../config/environment'
-
 
 class Song
   extend Memorable::ClassMethods
